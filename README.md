@@ -4,7 +4,7 @@ A simple **music recommendation system** built using **cosine similarity** on Sp
 
 ## 🌐 Live App
 
-👉 Try the app here (https://spotify-recommender-p3fcmwg9vqs38b4iidprgq.streamlit.app/)
+👉 Try the app here https://spotify-recommender-p3fcmwg9vqs38b4iidprgq.streamlit.app/
 
 ## 🧠 How It Works
 
